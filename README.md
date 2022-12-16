@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Rodrigo and I'm a Full Stack Developer ⚡
+### My name is Rodrigo and I'm a Full Stack Developer ⚡
 
 
 - 🔭 I’m currently working on **an E-Comerce for Bikes**
@@ -11,5 +11,9 @@
 
 - 💬 Ask me about **React, NodeJs, MongoDB**
 
-- 📫 How to reach me **https://www.linkedin.com/in/rodrigo-santesteban-7334b5240/**
+
+### Contact 📫
+
+
+ **https://www.linkedin.com/in/rodrigo-santesteban-7334b5240/**
 
