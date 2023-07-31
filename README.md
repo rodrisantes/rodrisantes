@@ -3,9 +3,9 @@
 ###   -  My name is Rodrigo and I'm a Full Stack Developer ⚡
 
 
-- 🔭 I’m currently working on **an E-Comerce for Bikes**
+- 🔭 I’m currently working on *Kolek Ltda**
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rodrigo-santesteban.vercel.app/](https://portfolio-rodrigo-santesteban.vercel.app/)
 
