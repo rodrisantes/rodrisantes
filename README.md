@@ -3,13 +3,13 @@
 ###   -  My name is Rodrigo and I'm a Full Stack Developer ⚡
 
 
-- 🔭 I’m currently working on *Kolek Ltda**
+- 🔭 I’m currently working on *Coderhouse**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rodrigo-santesteban.vercel.app/](https://portfolio-rodrigo-santesteban.vercel.app/)
 
-- 💬 Ask me about **React, NodeJs, MongoDB**
+- 💬 Ask me about **PHP, NodeJs, TS, AWS**
 
 
 ###  -  Contact  📫
